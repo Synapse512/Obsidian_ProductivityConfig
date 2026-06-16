@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Dark Moss",
+  "interfaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas",
+  "theme": "obsidian",
+  "accentColor": "#ffffff",
+  "showRibbon": false
+}
