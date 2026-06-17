@@ -10,9 +10,9 @@ Features:
 * Uses Consolas font for better readability **(download from [here](https://github.com/pensnarik/consolas-font/blob/master/Consolas-Regular.ttf))**
 
 Plugins:
-* Excalidraw - for writing and drawing notes
-* Calendar - tracking daily notes
-* File Explorer Note Count - makes it easier to know size of your folders
-* Iconize - allows for easy organization of folders by icons
-* Ninja Cursor - allows for easier sight of cursor (also feels good)
-* Timer - helps with staying focused for certain periods of time (if used for that)
+* **Excalidraw** - for writing and drawing notes
+* **Calendar** - tracking daily notes
+* **File Explorer Note Count** - makes it easier to know size of your folders
+* **Iconize** - allows for easy organization of folders by icons
+* **Ninja Cursor** - allows for easier sight of cursor (also feels good)
+* **Timer** - helps with staying focused for certain periods of time (if used for that)
