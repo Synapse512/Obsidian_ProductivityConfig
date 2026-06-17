@@ -8,6 +8,7 @@ This is a minimal config I made specifically for daily writings, tracking my to-
 Features:
 * Creates a folder called `_assets` in every vault to store attachments in
 * Uses Consolas font for better readability **(download from [here](https://github.com/pensnarik/consolas-font/blob/master/Consolas-Regular.ttf))**
+* Custom Grey icon for Obsidian application
 
 Plugins:
 * **Excalidraw** - for writing and drawing notes
