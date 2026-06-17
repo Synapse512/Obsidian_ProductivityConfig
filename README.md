@@ -11,8 +11,9 @@ Features:
 
 Plugins:
 * **Excalidraw** - for writing and drawing notes
-* **Calendar** - tracking daily notes
+* **Calendar** - for tracking daily notes
 * **File Explorer Note Count** - makes it easier to know size of your folders
+* **FileExplorer++** - lets you pin and hide files and folders for organization
 * **Iconize** - allows for easy organization of folders by icons
-* **Ninja Cursor** - allows for easier sight of cursor (also feels good)
+* **Ninja Cursor** - allows for easier sight of cursor *(also feels good)*
 * **Timer** - helps with staying focused for certain periods of time (if used for that)
